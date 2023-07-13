@@ -14,6 +14,9 @@ header{
 .landing{
     margin-bottom: 5%;
     background-color: #C31D81;
+    padding: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 
 .landing-subtittle{
@@ -52,4 +55,12 @@ header{
 .tittles{
     color: white;
     text-align: center;
+}
+
+.values h3{
+    color: #f29704;
+}
+
+.values h2{
+    color: #f29704;
 }
