@@ -1,10 +1,8 @@
 header{
+    background-color: white;
     margin-bottom: 1%;
-}
-
-.navbar{
-    margin-left: 10%;
-    margin-right: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 .nav-brand{
@@ -12,11 +10,8 @@ header{
 }
 
 .landing{
-    margin-bottom: 5%;
     background-color: #C31D81;
     padding: 10%;
-    padding-top: 10%;
-    padding-bottom: 10%;
 }
 
 .landing-subtittle{
