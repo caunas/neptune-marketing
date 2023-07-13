@@ -28,6 +28,10 @@ header{
     box-shadow: 0px 5px 20px black;
 }
 
+.about{
+    margin-left: 10%;
+}
+
 .services{
     background-color: #353535;
 
