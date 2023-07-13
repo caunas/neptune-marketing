@@ -1,0 +1,51 @@
+header{
+    margin-bottom: 1%;
+}
+
+.navbar{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.nav-brand{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.landing{
+    margin-bottom: 5%;
+    background-color: #C31D81;
+}
+
+.landing-subtittle{
+    color: #ffebf7;
+}
+
+.landing-tittle{
+    color: #ffe7f6;
+}
+
+.shadow-smooth{
+    box-shadow: 0px 5px 20px black;
+}
+
+.services{
+    background-color: #353535;
+
+}
+
+.paragraph{
+    font-size: 16px;
+}
+
+.cards-services{
+    display: flex;
+    justify-content: space-between;
+    padding: 2%;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.tittles{
+    color: white;
+    text-align: center;
+}
